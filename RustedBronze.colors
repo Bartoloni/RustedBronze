@@ -16,7 +16,7 @@ IntensityEffect=2
 
 [Colors:Button]
 BackgroundAlternate=90,98,109
-BackgroundNormal=82,88,99
+BackgroundNormal=70,65,60
 DecorationFocus=125,141,153
 DecorationHover=119,149,179
 ForegroundActive=255,255,255
@@ -30,10 +30,10 @@ ForegroundVisited=64,128,255
 
 [Colors:Selection]
 BackgroundAlternate=111,126,144
-BackgroundNormal=120,136,156
+BackgroundNormal=150,140,130
 DecorationFocus=125,141,153
 DecorationHover=119,149,179
-ForegroundActive=255,255,255
+ForegroundActive=200,255,255
 ForegroundInactive=174,192,218
 ForegroundLink=156,212,255
 ForegroundNegative=225,150,209
@@ -89,7 +89,9 @@ ForegroundVisited=64,128,255
 Name=Rusted Bronze
 
 [WM]
-activeBackground=138,151,166
-activeForeground=224,237,255
-inactiveBackground=75,80,88
-inactiveForeground=140,152,168
+activeBackground=49,54,59
+activeBlend=255,255,255
+activeForeground=239,240,241
+inactiveBackground=49,54,59
+inactiveBlend=75,71,67
+inactiveForeground=127,140,141
