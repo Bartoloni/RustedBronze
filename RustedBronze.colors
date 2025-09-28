@@ -15,11 +15,11 @@ IntensityAmount=0.05
 IntensityEffect=2
 
 [Colors:Button]
-BackgroundAlternate=90,98,109
-BackgroundNormal=70,65,60
+BackgroundAlternate=50,50,50
+BackgroundNormal=70,50,20
 DecorationFocus=125,141,153
 DecorationHover=119,149,179
-ForegroundActive=255,255,255
+ForegroundActive=235,235,235
 ForegroundInactive=135,143,154
 ForegroundLink=156,212,255
 ForegroundNegative=225,150,209
@@ -30,10 +30,10 @@ ForegroundVisited=64,128,255
 
 [Colors:Selection]
 BackgroundAlternate=111,126,144
-BackgroundNormal=150,140,130
+BackgroundNormal=120,136,156
 DecorationFocus=125,141,153
 DecorationHover=119,149,179
-ForegroundActive=200,255,255
+ForegroundActive=235,235,235
 ForegroundInactive=174,192,218
 ForegroundLink=156,212,255
 ForegroundNegative=225,150,209
@@ -47,7 +47,7 @@ BackgroundAlternate=171,181,195
 BackgroundNormal=182,193,208
 DecorationFocus=125,141,153
 DecorationHover=119,149,179
-ForegroundActive=255,255,255
+ForegroundActive=235,235,235
 ForegroundInactive=112,118,128
 ForegroundLink=87,161,218
 ForegroundNegative=99,66,92
@@ -62,7 +62,7 @@ BackgroundAlternate=60,50,45
 BackgroundNormal=36,36,36
 DecorationFocus=125,141,153
 DecorationHover=119,149,179
-ForegroundActive=255,255,255
+ForegroundActive=235,235,235
 ForegroundInactive=135,143,154
 ForegroundLink=156,212,255
 ForegroundNegative=225,150,209
@@ -76,7 +76,7 @@ BackgroundAlternate=100,80,50
 BackgroundNormal=66,66,66
 DecorationFocus=125,141,153
 DecorationHover=119,149,179
-ForegroundActive=255,255,255
+ForegroundActive=235,235,235
 ForegroundInactive=135,143,154
 ForegroundLink=156,212,255
 ForegroundNegative=225,150,209
@@ -87,11 +87,12 @@ ForegroundVisited=64,128,255
 
 [General]
 Name=Rusted Bronze
+Name=Rusted-Bronze
+accentActiveTitlebar=false
+shadeSortColumn=true
 
 [WM]
-activeBackground=49,54,59
-activeBlend=255,255,255
-activeForeground=239,240,241
-inactiveBackground=49,54,59
-inactiveBlend=75,71,67
-inactiveForeground=127,140,141
+activeBackground=138,151,166
+activeForeground=224,237,255
+inactiveBackground=75,80,88
+inactiveForeground=140,152,168
